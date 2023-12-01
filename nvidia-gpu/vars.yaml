@@ -8,7 +8,7 @@ CONTAINER_TOOLKIT_REF: 6b8589dcb4dead72ab64f14a5912886e6165c079
 LIBNVIDIA_CONTAINER_VERSION: v1.13.5
 LIBNVIDIA_CONTAINER_REF: 66607bd046341f7aad7de80a9f022f122d1f2fce
 # renovate: datasource=docker versioning=docker depName=cgr.dev/chainguard/wolfi-base
-WOLFI_BASE_REF: sha256:91f3e08712a854ff4a146b7cca7f1b7581f205bc589a06135f51590e00d2990e
+WOLFI_BASE_REF: sha256:671a584ae9af3acea08b53e19ea1f7df2bc430bb018071f3ab52077e6a906a76
 # renovate: datasource=github-tags extractVersion=^go(?<version>.*)$ depName=golang/go
 GLIBC_VERSION: 2.38
 # renovate: datasource=github-tags extractVersion=^v(?<version>.*)$ depName=seccomp/libseccomp
